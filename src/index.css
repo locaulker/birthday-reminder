@@ -58,7 +58,7 @@ Global Styles
 }
 body {
   font-family: "Helvetica Neue", sans-serif;
-  background: var(--clr-pink);
+  /* background: var(--clr-pink); */
   color: var(--clr-grey-9);
   line-height: 1.5;
   font-size: 0.875rem;
